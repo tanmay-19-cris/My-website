@@ -19,7 +19,6 @@
 }
 
 .icon{
-    width: 200px;
     float: left;
     height: 70px;
 }
@@ -129,7 +128,7 @@ ul li a:hover{
     font-family: 'Times New Roman';
     font-size: 50px;
     padding-left: 20px;
-    margin-top: 9%;
+    margin-top: 3%;
     letter-spacing: 2px;
 }
 
@@ -160,4 +159,10 @@ ul li a:hover{
     color: green;
     font-size: 60px;
 
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  overflow: hidden;
 }
